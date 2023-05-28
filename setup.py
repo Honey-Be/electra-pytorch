@@ -18,7 +18,7 @@ setup(
     'torch>=1.6.0',
     'transformers',
     'scipy',
-    'sklearn'
+    'scikit-learn'
   ],
   setup_requires=[
     'pytest-runner'
